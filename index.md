@@ -7,7 +7,7 @@ layout: default
 I'm passionate about technology, reading and ancient history,
 
 - 🔭 I'm currently working on personal proyects
-- 🌱 I'm currently improving my Python skills
+- 🌱 Now I'm improving my Python skills
 - 👯 I'm looking to collaborate on open source Python projects
 
 
