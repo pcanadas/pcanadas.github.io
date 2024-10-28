@@ -21,4 +21,4 @@ Here you can find some codes that I have been learning and projects that I am wo
 [tareas]:tareas
 [productos]:productos
 [VulpesCRM]:VulpesCRM
-[GestorNet]:gestornet
+[GestorNet]:(https://github.com/pcanadas/gestornet/blob/master/README.md)
